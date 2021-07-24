@@ -4,3 +4,4 @@ como en el ejercicio no me permite realizar jquery para el formulario solo lo oc
 
 Utilice una validación usando expresiones regulares lo que permite tener un mayor control y aplicar varias capaz de seguridad extra solo usando javascript
 
+El tiempo invertido fueron aproximadamente 8 horas en 2 días. 
